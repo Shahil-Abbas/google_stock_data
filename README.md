@@ -43,7 +43,21 @@ The dataset includes:
 - Volume
 
 ---
-## Data Preprocessing
+
+# Project Structure
+
+```text
+google_stock_analysis/
+│
+├── google_stock_data.ipynb
+├── google_stock_dataset.csv
+├── README.md
+└── requirements.txt
+```
+
+---
+
+# Data Preprocessing
 
 The project performs:
 
@@ -121,16 +135,38 @@ Evaluation metrics used:
 Install required libraries:
 
 ```bash
-
 pip install pandas numpy matplotlib seaborn scikit-learn
-# Project Structure
 ```
+
+---
+
+# Run Project
+
+Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
 ```
+
+Open:
 
 ```text
-google_stock_analysis/
-│
-├── google_stock_data.ipynb
-├── google_stock_dataset.csv
-├── README.md
-└── requirements.txt
+google_stock_data.ipynb
+```
+
+---
+
+# Future Improvements
+
+- LSTM deep learning model  
+- Real-time stock prediction  
+- Interactive dashboards  
+- Technical indicator analysis  
+- Candlestick chart visualization  
+- Stock forecasting using AI  
+
+---
+
+# Author
+
+Developed by Areyouok Gg using Python for stock market data analysis and predictive modeling.
