@@ -156,17 +156,7 @@ google_stock_data.ipynb
 
 ---
 
-# Future Improvements
-
-- LSTM deep learning model  
-- Real-time stock prediction  
-- Interactive dashboards  
-- Technical indicator analysis  
-- Candlestick chart visualization  
-- Stock forecasting using AI  
-
----
 
 # Author
 
-Developed by Areyouok Gg using Python for stock market data analysis and predictive modeling.
+Developed by Shahil Abbass using Python for stock market data analysis and predictive modeling.
