@@ -121,8 +121,11 @@ Evaluation metrics used:
 Install required libraries:
 
 ```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 # Project Structure
+```
+```
 
 ```text
 google_stock_analysis/
